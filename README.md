@@ -4,4 +4,4 @@ Yostynn: Aunque en el video se realiza un CRUD de un Sistema Academico deje los 
 Lo dejé en el video 3, sigue 3 mas (4,5 y 6).
 
 Johan: Complete los videos 4, 5 y 6; Creé el controlador para Clientes, asi como su Context y Modelo.
-Lo dejé en el video 6, siguen 4 mas (7, 8 y 9).
+Lo dejé en el video 6, siguen 3 mas (7, 8 y 9).
