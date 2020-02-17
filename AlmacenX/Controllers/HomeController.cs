@@ -17,14 +17,14 @@ namespace AlmacenX.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Sistema De Almacenes";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Detalles de contacto";
 
             return View();
         }
